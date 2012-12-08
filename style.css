@@ -1,2 +1,3 @@
-.no-border {border:0px !important}
-.no-shadow {box-shadow:0px !important}
+div.reveal img.no-border {border:0px }
+div.reveal img.no-shadow {box-shadow:none}
+.inline-img{display:inline-block;margin:20px}
