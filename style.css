@@ -1,3 +1,5 @@
 div.reveal img.no-border {border:0px }
 div.reveal img.no-shadow {box-shadow:none}
+div.reveal section h1.clrm {color:maroon}
+div.reveal section h1.clrb {color:rgb(195, 217, 255)}
 .inline-img{display:inline-block;margin:20px}
